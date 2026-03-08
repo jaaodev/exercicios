@@ -1,0 +1,1 @@
+Fiz esse pequeno projeto com o intuíto de por em prática os aprendizados do exercicío de assossiação utilizando o Scanner pra interagir com o usuário.

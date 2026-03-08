@@ -1,12 +1,12 @@
-package javacore.projeto.test;
+package projeto.test;
 
-import javacore.projeto.domain.*;
+import projeto.domain.*;
 
 import java.util.Scanner;
 
-import static javacore.projeto.domain.Aluno.listarAlunos;
-import static javacore.projeto.domain.Professor.*;
-import static javacore.projeto.domain.Seminario.*;
+import static projeto.domain.Aluno.listarAlunos;
+import static projeto.domain.Professor.listarProfessores;
+import static projeto.domain.Seminario.listarSeminarios;
 
 public class SeminarioTest01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javacore.projeto.domain;
+package projeto.domain;
 
 import java.util.Scanner;
 
