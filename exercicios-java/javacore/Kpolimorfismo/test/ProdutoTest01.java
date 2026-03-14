@@ -21,6 +21,11 @@ public class ProdutoTest01 {
     e o Objeto que está sendo criado também é do tipo Computador.
     Com o polimorfismo nós podemos fazer um metodo generico e extender a todos os objetos de classes filhas,
     nesse caso para todos os objetos que são produtos.
+
+    Upcasting (ou casting implícito) é a conversão de uma referência de uma subclasse para uma superclasse,
+    feita automaticamente pelo Java.
+    Downcasting (ou casting explícito) é a conversão de uma referência de uma superclasse para uma subclasse, que precisa ser
+    feita de forma explícita pelo programador e pode lançar uma ClassCastException se o objeto não for uma instância da classe destino.
      */
 
 }
